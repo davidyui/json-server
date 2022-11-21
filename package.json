@@ -9,6 +9,7 @@
   "author": "davidyui <davidnsilvasoares@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "json-server": "^0.17.1",
     "yarn": "^1.22.19"
   },
   "scripts": {
@@ -19,6 +20,5 @@
     "url": "https://github.com/davidyui/json-server/issues"
   },
   "homepage": "https://github.com/davidyui/json-server#readme",
-  "devDependencies": {},
   "keywords": []
 }
