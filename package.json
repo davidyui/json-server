@@ -1,11 +1,24 @@
 {
   "name": "json-server",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/davidyui/json-server.git",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidyui/json-server.git"
+  },
   "author": "davidyui <davidnsilvasoares@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "yarn": "^1.22.19"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Projeto Individual do Módulo 3",
+  "bugs": {
+    "url": "https://github.com/davidyui/json-server/issues"
+  },
+  "homepage": "https://github.com/davidyui/json-server#readme",
+  "devDependencies": {},
+  "keywords": []
 }
