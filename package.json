@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/davidyui/json-server.git",
   "author": "davidyui <davidnsilvasoares@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
 }
