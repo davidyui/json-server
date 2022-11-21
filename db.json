@@ -4,29 +4,25 @@
             "id": 1,
             "nome": "Pantera Negra: Wakanda forever",
             "descricao": "último filme da fase 4 da Marvel Studios, o filme acompanha a nação de Wakanda lidando com o luto da morte do Rei T'Challa",
-            "preco": 20.00,
-            "categoria_id": 1
+            "preco": 20.00
         },
         {
             "id": 2,
             "nome": "Jogos Vorazes",
             "descricao": "O filme acompanha a jovem Katniss Everdeen do Destrito 12 em sua aventura e batalha contra a Capital de Panem.",
-            "preco": 20.00,
-            "categoria_id": 1
+            "preco": 20.00
         },
         {
             "id": 3,
             "nome": "Enrolados",
             "descricao": "Filme de animação que acompanha a Rapunzel em sua aventura sobre a descoberta pelo mundo.",
-            "preco": 20.00,
-            "categoria_id": 1
+            "preco": 20.00
         },
         {
             "id": 4,
             "nome": "Annabelle",
             "descricao": "Filme de Terror sobre a Boneca diabólica possuida Annabelle.",
-            "preco": 20.00,
-            "categoria_id": 1
+            "preco": 20.00
         }
     ],
     "Pipocas": [
@@ -34,29 +30,25 @@
             "id": 1,
             "nome": "Pipoca pequena salgada",
             "descricao": "",
-            "preco": 10.00,
-            "categoria_id": 2
+            "preco": 10.00
         },
         {
             "id": 2,
             "nome": "Pipoca média salgada",
             "descricao": "",
-            "preco": 14.50,
-            "categoria_id": 2
+            "preco": 14.50
         },
         {
             "id": 3,
             "nome": "Pipoca grande salgada",
             "descricao": "",
-            "preco": 20.00,
-            "categoria_id": 2
+            "preco": 20.00
         },
         {
             "id": 4,
             "nome": "Pipoca grande doce",
             "descricao": "Pipoca doce nos sabores de chocolate, leite ninho e caramelo",
-            "preco": 23.00,
-            "categoria_id": 2
+            "preco": 23.00
         }
     ],
     "Bebidas": [
@@ -64,29 +56,25 @@
             "id": 1,
             "nome": "Água",
             "descricao": "",
-            "preco": 5.00,
-            "categoria_id": 3
+            "preco": 5.00
         },
         {
             "id": 2,
             "nome": "Suco",
             "descricao": "Copo de suco nsos sabores de: Caju, Maracujá, Limão, Uva e Morango",
-            "preco": 7.00,
-            "categoria_id": 3
+            "preco": 7.00
         },
         {
             "id": 3,
             "nome": "Cerveja",
             "descricao": "",
-            "preco": 9.00,
-            "categoria_id": 3
+            "preco": 9.00
         },
         {
             "id": 4,
             "nome": "Coca-Cola",
             "descricao": "",
-            "preco": 13.00,
-            "categoria_id": 3
+            "preco": 13.00
         }
     ],
     "Guloseimas": [
@@ -94,29 +82,25 @@
             "id": 1,
             "nome": "Chocolate Sneaks",
             "descricao": "",
-            "preco": 3.00,
-            "categoria_id": 4
+            "preco": 3.00
         },
         {
             "id": 2,
             "nome": "Fini",
             "descricao": "",
-            "preco": 6.00,
-            "categoria_id": 4
+            "preco": 6.00
         },
         {
             "id": 3,
             "nome": "Biscoito Piraquê",
             "descricao": "Biscoito Piraquê nos sabores: Chocolate, Morango, Limão e Leite maltado",
-            "preco": 2.50,
-            "categoria_id": 4
+            "preco": 2.50
         },
         {
             "id": 4,
             "nome": "Bolo",
             "descricao": "Pedaço de bolo, sabores: Maracujá, Chocolate e Morango",
-            "preco": 6.00,
-            "categoria_id": 4
+            "preco": 6.00
         }
     ]
 }
